@@ -37,14 +37,14 @@ Igualmente qualquer arquivo JavaScript você precisa inseri-lo na página com as
 
 Os seletores utilizam uma sintaxe similar, senão igual, a sintaxe de seleção do CSS. Alguns seletores comuns são:
 
-* $("p") – seleciona todos os elementos <p>
+* $("p") – seleciona todos os elementos \<p>
 * $("[href]") – seleciona todos os elementos que possuem o atributo href
 * $("#algumId") – seleciona todos os elementos onde id="algumId"
 * $(".algumaClasse") – seleciona todos os elementos onde class="algumaClasse"
-* $("p#algumId") – seleciona todos os elementos <p> onde id="algumId"
-* $("p.algumaClasse") – seleciona todos os elementos <p> onde class="algumaClasse"
-* $("p:first") – seleciona o primeiro elemento <p>
-* $("ul li:first") – seleciona o primeiro elemento <li> de um elemento <ul>
+* $("p#algumId") – seleciona todos os elementos \<p> onde id="algumId"
+* $("p.algumaClasse") – seleciona todos os elementos \<p> onde class="algumaClasse"
+* $("p:first") – seleciona o primeiro elemento \<p>
+* $("ul li:first") – seleciona o primeiro elemento \<li> de um elemento \<ul>
 * $(":even") – seleciona todos os elementos pares (utilizável em tabelas, listas e afins)
 * $(":odd") – seleciona todos os elementos ímpares (utilizável em tabelas, listas e afins)
 
