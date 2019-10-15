@@ -9,7 +9,7 @@ Crie um formulário conforme o exemplo na pasta site. O formulário deve ter os 
         * Elenco
         * Duração
         * Classificação *
-        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver marcado)
+        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver desmarcado)
         * Entrada Gratuita
     * Cinema
         * Título *
@@ -18,7 +18,7 @@ Crie um formulário conforme o exemplo na pasta site. O formulário deve ter os 
         * Elenco
         * Duração
         * Classificação * 
-        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver marcado)
+        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver desmarcado)
         * Entrada Gratuita
     * Debate Literário
         * Título *
@@ -36,7 +36,7 @@ Crie um formulário conforme o exemplo na pasta site. O formulário deve ter os 
         * Elenco
         * Duração
         * Classificação *
-        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver marcado)
+        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver desmarcado)
         * Entrada Gratuita
     * Artes visuais e exposições
         * Título *
@@ -50,7 +50,7 @@ Crie um formulário conforme o exemplo na pasta site. O formulário deve ter os 
         * Sinopse *
         * Artista/Banda *
         * Classificação *
-        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver marcado)
+        * Valor da entrada * (obrigatório se "Entrada Gratuita" estiver desmarcado)
         * Entrada Gratuita
 * Para formulários que contêm os campos "Valor da entrada" e "Entrada gratuita", ao se marcar o campo "Entrada gratuita", o valor deve ser zerado e o campo de valor desaparecer, ao se desmarcar o campo de valor deve reaparecer.
 * No hover e no focus dos campos do formulário o campo deverá ser destacado (borda suave).
