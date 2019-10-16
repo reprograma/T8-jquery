@@ -1,8 +1,8 @@
-**1.** Faça uma instrução jQuery que selecione todos elementos img da página que possuem alt e os imprima no log do console.
+**1.** No arquivo page1.html, faça uma instrução jQuery que selecione todos elementos img da página que possuem alt e os imprima no log do console.
 
-**2.** Faça uma instrução jQuery que selecione o input text pelo atributo, depois navegue até seu elemento pai e adicione a classe template nele.
+**2.** No arquivo page2.html, faça uma instrução jQuery que selecione o input text pelo atributo, depois navegue até seu elemento pai e adicione a classe "alert alert-info" nele.
 
-**3.** Faça uma instrução jQuery que selecione o item de lista dentro de #myList que possui uma classe "active" e:
+**3.** No arquivo page2.html, faça uma instrução jQuery que selecione o item de lista e:
 
-* Remova esta classe dele.
-* Adicione uma classe "active" no próximo item de lista.
+* Adicione a classe "list-group-item-info" no item.
+* Adicione a classe "list-group-item-dark" nos demais itens.
