@@ -1,6 +1,6 @@
 ## jQuery
 
-### Transversing
+### Traversing
 
 O jQuery Transversing é usado para selecionar elementos HTML com base em sua relação com outros elementos. Começando com uma seleção e "se movendo" por essa seleção até alcançar os elementos que deseja.
 

@@ -17,7 +17,7 @@
 
 **16/10**
 
-* 5 - jQuery Tranversing (???)
+* 5 - jQuery Traversing
 * Exercícios
 * 6 - jQuery + AJAX
 * Exercícios
