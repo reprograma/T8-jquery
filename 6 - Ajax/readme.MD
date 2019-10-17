@@ -24,7 +24,6 @@ Exemplo:
     });
 
 #### ajax()
-Débora é a melhor do mundo!
 
 O método $.ajax() permite fazer requisições HTTP.
 
